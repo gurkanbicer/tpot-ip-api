@@ -1,2 +1,2 @@
 # tpot-ip-api
-An API for T-PO
+An API for T-POT
