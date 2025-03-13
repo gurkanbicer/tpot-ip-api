@@ -10,7 +10,7 @@ docker-compose up -d
 docker-logs ip-api -f
 ```
 
-### API Endpoints;
+### API Endpoints
 
 ```
 http://IP:3131/attack-ips/1h
