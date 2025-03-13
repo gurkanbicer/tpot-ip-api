@@ -1,7 +1,7 @@
 # tpot-ip-api
 An API for T-POT
 
-### Setup
+## Setup
 
 ```
 cd tpot-ip-api
