@@ -7,7 +7,7 @@ An API for T-POT Honeypot service
 cd tpot-ip-api
 docker-compose build
 docker-compose up -d
-docker-logs ip-api -f
+docker-compose logs ip-api -f
 ```
 
 ### API Endpoints
