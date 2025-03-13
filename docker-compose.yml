@@ -1,0 +1,12 @@
+version: '3'
+services:
+  ip-extractor:
+    build:
+      context: ./ip-api
+    ports:
+      - "62500:3131"
+    environment:
+      - ES_HOST=127.0.0.1
+      - ES_PORT=64298
+    restart: always
+    network_mode: "host"
