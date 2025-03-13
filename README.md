@@ -1,5 +1,5 @@
-# tpot-ip-api
-An API for T-POT
+# T-Pot Honeypot IP API
+An API for T-POT Honeypot service
 
 ## Setup
 
